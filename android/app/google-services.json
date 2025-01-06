@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810127844224",
+    "project_id": "hackmisso-gnk2024",
+    "storage_bucket": "hackmisso-gnk2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810127844224:android:3dfb59caf0d95cb35ed765",
+        "android_client_info": {
+          "package_name": "com.mycompany.gnk2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6AxDvx-oQsVnXyl6Yi5h4Pf69XzI0I28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
